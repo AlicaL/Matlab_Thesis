@@ -1,9 +1,9 @@
 function log_structure = readLog(sensor_log_location,kinect_log_location,add_hours_to_sensor)
     
     %% load structure
-    sensor_log_location = 'data/validation_kinect/logs_1_sensor_general_both.csv';
-    kinect_log_location = 'data/validation_kinect/logs_1_kinect_general_both.txt';
-    add_hours_to_sensor = 1;
+%     sensor_log_location = 'data/validation_kinect/logs_1_sensor_general_both.csv';
+%     kinect_log_location = 'data/validation_kinect/logs_1_kinect_general_both.txt';
+%     add_hours_to_sensor = 1;
 
     addpath('time_helpers');
     %import sensor data
