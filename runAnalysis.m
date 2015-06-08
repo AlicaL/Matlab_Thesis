@@ -1,3 +1,5 @@
+% Alicas Thesis
+
 %% importData and calculate Energy for single sensor
 directory = 'data/working_30min/';
 d=dir([directory,'*.csv']);
