@@ -1,4 +1,4 @@
-% Alicas Thesis
+% Alicas UPF Thesis
 
 %% importData and calculate Energy for single sensor
 directory = 'data/working_30min/';
