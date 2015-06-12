@@ -14,4 +14,4 @@ log2 = clip_log(log2, 2, 66, 2, 9);
 %% plot
 plot(log1.sensor_time,log1.sensor_leftEnergy,log1.kinect_time,log1.kinect_energyLeftWrist)
 hold on;
-plot(log2.sensor_time,log2.sensor_leftEnergy,log2.kinect_time,log2.kinect_energyLeftWrist)
+%plot(log2.sensor_time,log2.sensor_leftEnergy,log2.kinect_time,log2.kinect_energyLeftWrist)
