@@ -6,11 +6,11 @@ left_energy = log.data(:,3);
 right_energy = log.data(:,4);
 phone_energy = log.data(:,5);
 
-right_energy(right_energy<0) = 0;
+left_energy(left_energy<0) = 0;
 right_energy(right_energy<0) = 0;
 phone_energy(phone_energy<0) = 0;
 
-means = [mean(right_energy(1:3569)) mean(right_energy(3570:7163)) mean(right_energy(7164:10748))];
+means = [mean(left_energy(1:3569)) mean(left_energy(3570:7163)) mean(left_energy(7164:10748))];
 means_indexes = [1 2 3];
 
 x = means_indexes;
@@ -24,11 +24,11 @@ left_energy = log.data(:,3);
 right_energy = log.data(:,4);
 phone_energy = log.data(:,5);
 
-right_energy(right_energy<0) = 0;
+left_energy(left_energy<0) = 0;
 right_energy(right_energy<0) = 0;
 phone_energy(phone_energy<0) = 0;
 
-means = [mean(right_energy(1:3566)) mean(right_energy(3567:7150)) mean(right_energy(7151:10734))];
+means = [mean(left_energy(1:3566)) mean(left_energy(3567:7150)) mean(left_energy(7151:10734))];
 means_indexes = [1 2 3];
 
 x = [x means_indexes];
@@ -42,11 +42,11 @@ left_energy = log.data(:,3);
 right_energy = log.data(:,4);
 phone_energy = log.data(:,5);
 
-right_energy(right_energy<0) = 0;
+left_energy(left_energy<0) = 0;
 right_energy(right_energy<0) = 0;
 phone_energy(phone_energy<0) = 0;
 
-means = [mean(right_energy(1:3556)) mean(right_energy(3557:7142)) mean(right_energy(7143:10791))];
+means = [mean(left_energy(1:3556)) mean(left_energy(3557:7142)) mean(left_energy(7143:10791))];
 means_indexes = [1 2 3];
 
 x = [x means_indexes];
@@ -59,11 +59,11 @@ scatter(x,y, 100,'magenta','diamond','MarkerEdgeColor',[0 .5 .5],...
 
 title('Get Thresholds for Different Use Modes')
 xlabel('Mode') % x-axis label
-ylabel('Average Right Energy') % y-axis label
+ylabel('Average Left Energy') % y-axis label
 
 mu = mean(y);
 %refline([0 mu])
-axis([0 4 0 0.03])
+axis([0 4 0 0.02])
 
 p = polyfit(x,y,1) 
 refline([p(1) p(2)])
@@ -72,3 +72,8 @@ legend({'Data points',sprintf('y = %.5fx + %.5f',p(1),p(2))},'FontSize',16,'Font
 
 ax = gca;
 set(ax,'XTick',[1 2 3])
+
+%Thresholds
+refline([0 0.0038])
+refline([0 0.01])
+refline([0 0.018])
