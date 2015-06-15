@@ -1,8 +1,3 @@
-% figure
-% ax1 = subplot(1,1,1);
-% %ax2 = subplot(2,1,2);
-% 
-
 x =  [ 1 1 1 2 2 2 3 3 3]
 y = [3 4 5 6 5 7 7 8 10]
 
@@ -14,7 +9,6 @@ scatter(x,y, 100,'magenta','diamond','MarkerEdgeColor',[0 .5 .5],...
 title('Get Thresholds for Different Use Modes')
 xlabel('Mode') % x-axis label
 ylabel('Average Balance/Energy') % y-axis label
-
 
 mu = mean(y);
 %refline([0 mu])
