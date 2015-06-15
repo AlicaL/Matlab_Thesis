@@ -1,5 +1,5 @@
 %% importData and calculate Energy for single sensor
-directory = 'data/Pilot-data/';
+directory = 'DAL/Modes/morning';
 d=dir([directory,'*.csv']);
 numFiles=length(d);
 numSensors=3;

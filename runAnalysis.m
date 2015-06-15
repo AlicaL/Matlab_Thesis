@@ -1,10 +1,10 @@
 % Alicas UPF Thesis
 
 %% importData and calculate Energy for single sensor
-directory = 'data/working_30min/';
+directory = 'DAL/Modes/morning';
 d=dir([directory,'*.csv']);
 numFiles=length(d);
-numSensors=3;
+numSensors=1;
 numTasks=numFiles/numSensors;
 
 dataAll=cell(numTasks,numSensors);
