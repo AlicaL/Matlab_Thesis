@@ -1,5 +1,5 @@
 %% importData and calculate Energy for single sensor
-directory = 'data/normal/';
+directory = 'data/Pilot-data/';
 d=dir([directory,'*.csv']);
 numFiles=length(d);
 numSensors=3;
@@ -79,7 +79,8 @@ for ii=1:numTasks
     result{ii,5}=round(m(1)/(m(1)+m(end))*100);
     
     %plotting energy
-    figure;plot(result{ii,3}.*100);hold on;legend(result{ii,2})
+    figure;
+    plot(result{ii,3}.*100);hold on;legend(result{ii,2})
     
     %plotting balance
     result{ii,6}=round(result{ii,3}(:,1)./(result{ii,3}(:,1)+result{ii,3}(:,end))*100);
@@ -101,7 +102,7 @@ for ii=1:numTasks
     %figure;
     hold on;
     title('Movement over time')
-    xlabel('time in min') % x-axis label
+    xlabel('time in sec') % x-axis label
     ylabel('Percentage of Energy') % y-axis label
     plot(result{ii,6},'--');
     
