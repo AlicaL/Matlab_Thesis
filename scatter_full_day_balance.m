@@ -6,6 +6,10 @@ left_energy = log.data(:,3);
 right_energy = log.data(:,4);
 phone_energy = log.data(:,5);
 
+
+left_energy=left_energy- phone_energy;
+right_energy= right_energy- phone_energy;
+
 left_energy(left_energy<0) = 0;
 right_energy(right_energy<0) = 0;
 phone_energy(phone_energy<0) = 0;
