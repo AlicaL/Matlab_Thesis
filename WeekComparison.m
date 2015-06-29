@@ -58,10 +58,14 @@ ylabel('activity paretic limb');
 xlabel('Days');
 hline = refline([0 meanday(1)]);
 hline.Color = 'r';
+
+x = 1:5;
+for i=1:length(x),
+  TH(i) = text(x(i)-0.25,meanday(i)+ 0.15,num2str(meanday(i))) ;
+end
+
 % % % % % % % Alica trial to change x axis
-indexes=['Base, Int1, Int2, Int3'];
-%set(gca,'XTick',[1,2,3,4] );
-%set(gca,'XTickLabel',['Base, Int1, Int2, Int3'] );
+set(gca,'XTickLabel',{'Baseline','Int1','Int2','Int3','Post-test'} );
 % gtext place the text with mouse in the figure
 % comentar si no percentage en el plot
 gtext(p1,'Fontsize',16)
