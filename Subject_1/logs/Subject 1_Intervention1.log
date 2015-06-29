@@ -1,0 +1,93 @@
+06-25  10:00:01 : C - START Session
+06-25  10:00:01 : I - START_00
+06-25  10:00:04 : I - L: Initializing...
+06-25  10:00:04 : I - L: Connecting...
+06-25  10:00:05 : I - R: Initializing...
+06-25  10:00:05 : I - R: Connecting...
+06-25  10:00:05 : I - P: Connected
+06-25  10:00:09 : I - START_00 END clicked=true
+06-25  10:00:09 : I - START_01
+06-25  10:00:10 : I - L: Connected
+06-25  10:00:13 : I - R: Connected
+06-25  10:00:52 : I - START_01 END clicked=true
+06-25  10:00:52 : I - START_02
+06-25  10:00:54 : I - START_02 END clicked=true
+06-25  10:05:18 : C - Status:
+	L: Connected 99% 50Hz
+	R: Connected 100% 50Hz
+	P: Connected 100% 49Hz
+	Baseline: 1,00 x 3.3458405
+06-25  10:05:18 : C - P OK, waiting for L and R...
+06-25  11:00:00 : C - BALANCE Session
+06-25  11:00:00 : C - Improvement: +63%
+06-25  11:00:00 : I - BALANCE_00, 63
+06-25  11:00:09 : I - BALANCE_00 END clicked=true
+06-25  12:00:01 : C - BALANCE Session
+06-25  12:00:01 : C - Improvement: -9%
+06-25  12:00:01 : I - BALANCE_00, -8
+06-25  12:00:09 : I - BALANCE_00 END clicked=true
+06-25  12:47:37 : I - L: Initializing...
+06-25  12:47:37 : I - L: Connecting...
+06-25  12:47:38 : I - R: Initializing...
+06-25  12:47:38 : I - R: Connecting...
+06-25  12:47:38 : I - P: Connected
+06-25  12:47:38 : I - L: Connected
+06-25  12:47:38 : I - R: Connected
+06-25  13:00:00 : C - REVIEW_MORNING Session
+06-25  13:00:00 : C - Improvement: +79%
+06-25  13:00:00 : I - BALANCE_00, 78
+06-25  14:00:01 : C - BALANCE Session
+06-25  14:00:01 : C - Improvement: -12%
+06-25  14:00:01 : I - BALANCE_00, -11
+06-25  14:40:43 : C - P OK, waiting for L and R...
+06-25  14:40:43 : C - Status:
+	L: Connected 99% 50Hz
+	R: Connected 99% 50Hz
+	P: Connected 83% 49Hz
+	Baseline: 1,00 x 3.3458405
+06-25  15:00:01 : C - BALANCE Session
+06-25  15:00:01 : C - Improvement: +54%
+06-25  15:00:01 : I - BALANCE_00, 53
+06-25  15:00:08 : I - BALANCE_00 END clicked=true
+06-25  15:16:27 : C - Synchronizing...
+06-25  15:35:50 : I - L: Initializing...
+06-25  15:35:50 : I - L: Connecting...
+06-25  15:35:51 : I - R: Initializing...
+06-25  15:35:51 : I - R: Connecting...
+06-25  15:35:51 : I - P: Connected
+06-25  15:35:54 : I - L: Connected
+06-25  15:35:54 : I - R: Connected
+06-25  16:00:01 : C - BALANCE Session
+06-25  16:00:01 : C - Improvement: +28%
+06-25  16:00:01 : I - BALANCE_00, 27
+06-25  16:00:10 : I - BALANCE_00 END clicked=true
+06-25  17:00:00 : C - BALANCE Session
+06-25  17:00:01 : C - Improvement: -77%
+06-25  17:00:01 : I - BALANCE_00, -76
+06-25  17:00:11 : I - BALANCE_00 END clicked=true
+06-25  18:00:00 : C - BALANCE Session
+06-25  18:00:01 : C - Improvement: +77%
+06-25  18:00:01 : I - BALANCE_00, 77
+06-25  18:00:10 : I - BALANCE_00 END clicked=true
+06-25  18:23:35 : I - L: Initializing...
+06-25  18:23:35 : I - L: Connecting...
+06-25  18:23:36 : I - L: Connected
+06-25  18:23:36 : I - R: Initializing...
+06-25  18:23:36 : I - R: Connecting...
+06-25  18:23:36 : I - P: Connected
+06-25  18:23:39 : I - R: Connected
+06-25  19:00:00 : C - STOP Session
+06-25  19:00:00 : C - Improvement: +26%
+06-25  19:00:00 : I - BALANCE_00, 26
+06-25  19:00:06 : I - BALANCE_00 END clicked=true
+06-25  19:00:07 : I - REVIEW_NIGHT_00, -76, 76, 26
+06-25  19:00:08 : I - REVIEW_NIGHT_00 END clicked=true
+06-25  19:00:10 : I - REVIEW_DAY_00, 63, -8, 78, -11, 54, 27, -76, 76, 26
+06-25  19:00:11 : I - REVIEW_DAY_00 END clicked=true
+06-25  19:00:11 : I - STOP_00
+06-25  19:00:16 : I - STOP_00 END clicked=true
+06-25  19:00:16 : I - STOP_01
+06-25  19:00:18 : I - STOP_01 END clicked=true
+06-25  19:00:18 : I - STOP_02
+06-25  19:00:30 : I - STOP_02 END clicked=true
+06-25  19:11:54 : C - Synchronizing...

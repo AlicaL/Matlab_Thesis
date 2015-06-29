@@ -6,7 +6,7 @@ M=3;
 
 formatSpec = '%f%f%f%f%f%f%[^\n\r]';
 
-data = cell(length(dd)/M,M);
+data = cell(floor(length(dd)/M),M);
 for ii=1:length(dd)
     filename = dd(ii).name;
     index=strsplit(filename,'_')

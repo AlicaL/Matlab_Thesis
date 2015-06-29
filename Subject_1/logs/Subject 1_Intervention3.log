@@ -1,0 +1,107 @@
+06-26  10:00:01 : C - START Session
+06-26  10:00:01 : I - START_00
+06-26  10:00:05 : I - L: Initializing...
+06-26  10:00:05 : I - L: Connecting...
+06-26  10:00:06 : I - L: Connected
+06-26  10:00:06 : I - R: Initializing...
+06-26  10:00:06 : I - R: Connecting...
+06-26  10:00:06 : I - P: Connected
+06-26  10:00:06 : I - R: Connected
+06-26  10:00:14 : I - START_00 END clicked=true
+06-26  10:00:14 : I - START_01
+06-26  10:00:17 : I - START_01 END clicked=true
+06-26  10:00:17 : I - START_02
+06-26  10:00:19 : I - START_02 END clicked=true
+06-26  10:05:14 : C - Status:
+	L: Connected 99% 49Hz
+	R: Connected 99% 50Hz
+	P: Connected 100% 49Hz
+	Baseline: 1,00 x 3.3458405
+06-26  10:05:14 : C - P OK, waiting for L and R...
+06-26  10:14:31 : C - Status:
+	L: Connected 99% 50Hz
+	R: Connected 99% 50Hz
+	P: Connected 99% 49Hz
+	Baseline: 1,00 x 3.3458405
+06-26  10:14:31 : C - P OK, waiting for L and R...
+06-26  10:14:32 : C - P OK, waiting for L and R...
+06-26  10:14:32 : C - Status:
+	L: Connected 99% 50Hz
+	R: Connected 99% 50Hz
+	P: Connected 99% 49Hz
+	Baseline: 1,00 x 3.3458405
+06-26  10:14:33 : C - Status:
+	L: Connected 99% 50Hz
+	R: Connected 99% 50Hz
+	P: Connected 99% 49Hz
+	Baseline: 1,00 x 3.3458405
+06-26  10:14:33 : C - P OK, waiting for L and R...
+06-26  11:00:01 : C - BALANCE Session
+06-26  11:00:01 : C - Improvement: +40%
+06-26  11:00:01 : I - BALANCE_00, 40
+06-26  11:00:10 : I - BALANCE_00 END clicked=true
+06-26  12:00:01 : C - BALANCE Session
+06-26  12:00:01 : C - Improvement: +25%
+06-26  12:00:01 : I - BALANCE_00, 25
+06-26  12:00:25 : I - BALANCE_00 END clicked=true
+06-26  12:49:19 : I - L: Initializing...
+06-26  12:49:19 : I - L: Connecting...
+06-26  12:49:19 : I - L: Connected
+06-26  12:49:20 : I - R: Initializing...
+06-26  12:49:20 : I - R: Connecting...
+06-26  12:49:20 : I - P: Connected
+06-26  12:49:20 : I - R: Connected
+06-26  13:00:01 : C - REVIEW_MORNING Session
+06-26  13:00:01 : C - Improvement: +111%
+06-26  13:00:01 : I - BALANCE_00, 110
+06-26  13:00:11 : I - BALANCE_00 END clicked=true
+06-26  13:00:12 : I - REVIEW_MORNING_00, 40, 25, 110
+06-26  13:00:12 : I - REVIEW_MORNING_00 END clicked=true
+06-26  14:00:01 : C - BALANCE Session
+06-26  14:00:01 : C - Improvement: +45%
+06-26  14:00:01 : I - BALANCE_00, 44
+06-26  14:01:01 : I - BALANCE_00 END clicked=false
+06-26  15:00:01 : C - BALANCE Session
+06-26  15:00:01 : C - Improvement: -18%
+06-26  15:00:01 : I - BALANCE_00, -18
+06-26  15:00:14 : I - BALANCE_00 END clicked=true
+06-26  15:38:20 : I - L: Initializing...
+06-26  15:38:20 : I - L: Connecting...
+06-26  15:38:20 : I - R: Initializing...
+06-26  15:38:20 : I - R: Connecting...
+06-26  15:38:20 : I - P: Connected
+06-26  15:38:20 : I - L: Connected
+06-26  15:38:21 : I - R: Connected
+06-26  16:00:01 : C - BALANCE Session
+06-26  16:00:02 : C - Improvement: +49%
+06-26  16:00:02 : I - BALANCE_00, 48
+06-26  16:00:07 : I - BALANCE_00 END clicked=true
+06-26  17:00:00 : C - BALANCE Session
+06-26  17:00:01 : C - Improvement: +8%
+06-26  17:00:01 : I - BALANCE_00, 8
+06-26  17:00:07 : I - BALANCE_00 END clicked=true
+06-26  18:00:01 : C - BALANCE Session
+06-26  18:00:01 : C - Improvement: +3%
+06-26  18:00:01 : I - BALANCE_00, 3
+06-26  18:03:44 : I - BALANCE_00 END clicked=true
+06-26  18:28:05 : I - L: Initializing...
+06-26  18:28:05 : I - L: Connecting...
+06-26  18:28:05 : I - R: Initializing...
+06-26  18:28:05 : I - R: Connecting...
+06-26  18:28:06 : I - P: Connected
+06-26  18:28:08 : I - L: Connected
+06-26  18:28:09 : I - R: Connected
+06-26  19:00:01 : C - STOP Session
+06-26  19:00:01 : C - Improvement: +98%
+06-26  19:00:01 : I - BALANCE_00, 97
+06-26  19:00:08 : I - BALANCE_00 END clicked=true
+06-26  19:00:08 : I - REVIEW_NIGHT_00, 8, 3, 98
+06-26  19:00:09 : I - REVIEW_NIGHT_00 END clicked=true
+06-26  19:00:11 : I - REVIEW_DAY_00, 40, 25, 110, 44, -17, 49, 8, 3, 98
+06-26  21:16:09 : I - L: Initializing...
+06-26  21:16:09 : I - L: Connecting...
+06-26  21:16:09 : I - L: Connected
+06-26  21:16:09 : I - R: Initializing...
+06-26  21:16:09 : I - R: Connecting...
+06-26  21:16:09 : I - P: Connected
+06-26  21:16:09 : I - R: Connected

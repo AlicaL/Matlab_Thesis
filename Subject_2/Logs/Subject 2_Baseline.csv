@@ -1,0 +1,646 @@
+06-22  09:49:11 : I - L: Initializing...
+06-22  09:49:11 : I - L: Connecting...
+06-22  09:49:11 : I - BALANCE_00, null
+06-22  09:49:12 : I - L: Connected
+06-22  09:49:12 : I - R: Initializing...
+06-22  09:49:12 : I - R: Connecting...
+06-22  09:49:12 : I - P: Connected
+06-22  09:49:12 : I - R: Connected
+06-22  09:49:13 : C - R: Battery 0%
+06-22  09:49:13 : C - R: Battery 0%
+06-22  09:50:05 : I - START_00
+06-22  10:00:01 : C - START Session
+06-22  10:00:01 : I - START_00
+06-22  10:00:07 : C - Improvement: +0%
+06-22  10:00:07 : I - BALANCE_00, 0
+06-22  10:00:08 : C - Improvement: +0%
+06-22  10:00:08 : I - BALANCE_00, 0
+06-22  10:00:12 : C - Improvement: +0%
+06-22  10:00:12 : I - BALANCE_00, 0
+06-22  10:00:16 : C - Improvement: +0%
+06-22  10:00:16 : I - BALANCE_00, 0
+06-22  10:00:18 : C - Improvement: +0%
+06-22  10:00:18 : I - BALANCE_00, 0
+06-22  10:00:26 : C - Improvement: +0%
+06-22  10:00:26 : I - BALANCE_00, 0
+06-22  10:00:47 : C - Improvement: +0%
+06-22  10:00:47 : I - BALANCE_00, 0
+06-22  10:01:08 : C - Improvement: +0%
+06-22  10:01:08 : I - BALANCE_00, 0
+06-22  10:01:30 : I - BALANCE_00, 0
+06-22  10:01:31 : I - L: Initializing...
+06-22  10:01:31 : I - L: Connecting...
+06-22  10:01:31 : I - R: Initializing...
+06-22  10:01:31 : I - R: Connecting...
+06-22  10:01:31 : I - P: Connected
+06-22  10:01:31 : I - L: Connected
+06-22  10:01:38 : I - R: Connected
+06-22  10:01:38 : C - R: Battery 0%
+06-22  10:01:38 : C - R: Battery 0%
+06-22  10:01:55 : I - BALANCE_00 END clicked=true
+06-22  10:08:02 : I - BALANCE_00, 150
+06-22  10:09:02 : I - BALANCE_00 END clicked=false
+06-22  10:24:46 : C - Status:
+	L: Connected 97% 51Hz
+	R: Connected 92% 51Hz
+	P: Connected 96% 49Hz
+	Baseline: 1,00 x 1.3636869
+06-22  10:25:08 : C - Status:
+	L: Connected 97% 52Hz
+	R: Connected 92% 51Hz
+	P: Connected 96% 49Hz
+	Baseline: 1,00 x 1.5244968
+06-22  10:31:38 : C - R: Battery 8%
+06-22  10:31:38 : C - R: Battery 8%
+06-22  10:40:35 : C - Status:
+	L: Connected 97% 51Hz
+	R: Connected 8% 51Hz
+	P: Connected 95% 49Hz
+	Baseline: 1,00 x 1.5244968
+06-22  10:40:37 : C - Status:
+	L: Connected 97% 51Hz
+	R: Connected 8% 51Hz
+	P: Connected 95% 49Hz
+	Baseline: 1,00 x 1.5244968
+06-22  10:40:37 : C - Status:
+	L: Connected 97% 52Hz
+	R: Connected 8% 51Hz
+	P: Connected 95% 49Hz
+	Baseline: 1,00 x 1.5244968
+06-22  10:48:58 : C - R: Disconnected
+06-22  10:48:59 : I - R: Connecting...
+06-22  10:48:59 : I - R: Connected
+06-22  10:49:14 : I - R: Connected
+06-22  10:49:29 : I - R: Connected
+06-22  10:49:44 : I - R: Connected
+06-22  10:49:59 : I - R: Connected
+06-22  10:50:14 : I - R: Connected
+06-22  10:50:29 : I - R: Connected
+06-22  10:50:44 : I - R: Connected
+06-22  10:50:59 : I - R: Connected
+06-22  10:51:14 : I - R: Connected
+06-22  10:51:29 : I - R: Connected
+06-22  10:51:44 : I - R: Connected
+06-22  10:51:59 : I - R: Connected
+06-22  10:52:06 : C - Status:
+	L: Connected 97% 52Hz
+	R: Connected 0Hz
+	P: Connected 94% 49Hz
+	Baseline: 1,00 x 1.5244968
+06-22  10:52:14 : I - R: Connected
+06-22  10:52:29 : I - R: Connected
+06-22  10:52:44 : I - R: Connected
+06-22  10:52:59 : I - R: Connected
+06-22  10:53:14 : I - R: Connected
+06-22  10:53:29 : I - R: Connected
+06-22  10:53:44 : I - R: Connected
+06-22  10:53:59 : I - R: Connected
+06-22  10:54:14 : I - R: Connected
+06-22  10:54:29 : I - R: Connected
+06-22  10:54:44 : I - R: Connected
+06-22  10:54:59 : I - R: Connected
+06-22  10:55:14 : I - R: Connected
+06-22  10:55:29 : I - R: Connected
+06-22  10:55:44 : I - R: Connected
+06-22  10:55:59 : I - R: Connected
+06-22  10:56:14 : I - R: Connected
+06-22  10:56:29 : I - R: Connected
+06-22  10:56:44 : I - R: Connected
+06-22  10:56:59 : I - R: Connected
+06-22  10:57:14 : I - R: Connected
+06-22  10:57:29 : I - R: Connected
+06-22  10:57:40 : C - Status:
+	L: Connected 97% 51Hz
+	R: Connected 0Hz
+	P: Connected 94% 49Hz
+	Baseline: 1,00 x 1.5244968
+06-22  10:57:44 : I - R: Connected
+06-22  10:57:59 : I - R: Connected
+06-22  10:58:14 : I - R: Connected
+06-22  10:58:29 : I - R: Connected
+06-22  10:58:44 : I - R: Connected
+06-22  10:58:59 : I - R: Connected
+06-22  10:59:14 : I - R: Connected
+06-22  10:59:29 : I - R: Connected
+06-22  10:59:44 : I - R: Connected
+06-22  10:59:59 : I - R: Connected
+06-22  11:00:14 : I - R: Connected
+06-22  11:00:29 : I - R: Connected
+06-22  11:00:44 : I - R: Connected
+06-22  11:00:59 : I - R: Connected
+06-22  11:01:14 : I - R: Connected
+06-22  11:01:29 : I - R: Connected
+06-22  11:01:44 : I - R: Connected
+06-22  11:01:59 : I - R: Connected
+06-22  11:02:14 : I - R: Connected
+06-22  11:02:29 : I - R: Connected
+06-22  11:02:44 : I - R: Connected
+06-22  11:02:59 : I - R: Connected
+06-22  11:03:14 : I - R: Connected
+06-22  11:03:29 : I - R: Connected
+06-22  11:03:44 : I - R: Connected
+06-22  11:03:59 : I - R: Connected
+06-22  11:04:06 : C - Status:
+	L: Connected 97% 52Hz
+	R: Connected 0Hz
+	P: Connected 94% 49Hz
+	Baseline: 1,00 x 1.5244968
+06-22  11:04:07 : C - Status:
+	L: Connected 97% 51Hz
+	R: Connected 0Hz
+	P: Connected 94% 49Hz
+	Baseline: 1,00 x 1.5244968
+06-22  11:04:14 : I - R: Connected
+06-22  11:04:29 : I - R: Connected
+06-22  11:04:44 : I - R: Connected
+06-22  11:04:59 : I - R: Connected
+06-22  11:05:14 : I - R: Connected
+06-22  11:05:29 : C - R: Disconnected
+06-22  11:05:31 : I - R: Connecting...
+06-22  11:05:31 : I - R: Connected
+06-22  11:05:44 : C - R: Disconnected
+06-22  11:05:45 : I - R: Connecting...
+06-22  11:05:45 : I - R: Connected
+06-22  11:06:12 : C - R: Disconnected
+06-22  11:06:13 : I - R: Connecting...
+06-22  11:06:13 : I - R: Connected
+06-22  11:06:14 : I - R: Connected
+06-22  11:06:49 : C - R: Disconnected
+06-22  11:06:49 : C - R: Disconnected
+06-22  11:06:50 : I - R: Connecting...
+06-22  11:06:50 : I - R: Connected
+06-22  11:06:50 : I - R: Connecting...
+06-22  11:06:50 : C - R: Disconnected
+06-22  11:06:51 : I - R: Connecting...
+06-22  11:06:51 : I - R: Connected
+06-22  11:07:00 : I - R: Connected
+06-22  11:07:09 : C - Status:
+	L: Connected 97% 51Hz
+	R: Connected 51Hz
+	P: Connected 94% 49Hz
+	Baseline: 1,00 x 1.5244968
+06-22  11:11:18 : C - Status:
+	L: Connected 97% 51Hz
+	R: Connected 51Hz
+	P: Connected 94% 49Hz
+	Baseline: 1,00 x 1.5244968
+06-22  11:11:24 : C - Status:
+	L: Connected 97% 52Hz
+	R: Connected 51Hz
+	P: Connected 94% 49Hz
+	Baseline: 1,00 x 1.5244968
+06-22  11:17:42 : C - Status:
+	L: Connected 97% 52Hz
+	R: Connected 51Hz
+	P: Connected 93% 49Hz
+	Baseline: 1,00 x 1.5244968
+06-22  11:37:04 : C - Status:
+	L: Connected 97% 51Hz
+	R: Connected 51Hz
+	P: Connected 92% 49Hz
+	Baseline: 1,00 x 1.5244968
+06-22  11:49:04 : C - Status:
+	L: Connected 97% 51Hz
+	R: Connected 51Hz
+	P: Connected 91% 49Hz
+	Baseline: 1,00 x 1.9118477
+06-22  12:55:14 : I - L: Initializing...
+06-22  12:55:15 : I - L: Connecting...
+06-22  12:55:15 : I - R: Initializing...
+06-22  12:55:15 : I - R: Connecting...
+06-22  12:55:15 : I - P: Connected
+06-22  12:55:15 : I - L: Connected
+06-22  12:55:16 : I - R: Connected
+06-22  12:55:27 : C - R: Disconnected
+06-22  12:55:28 : I - R: Connecting...
+06-22  12:55:28 : I - R: Connected
+06-22  12:55:42 : C - R: Disconnected
+06-22  12:55:43 : I - R: Connecting...
+06-22  12:55:43 : I - R: Connected
+06-22  12:55:57 : C - R: Disconnected
+06-22  12:55:58 : I - R: Connecting...
+06-22  12:55:58 : I - R: Connected
+06-22  12:56:34 : C - Status:
+	L: Connected 96% 51Hz
+	R: Connected 51Hz
+	P: Connected 86% 49Hz
+	Baseline: 1,00 x 1.9118477
+06-22  13:21:53 : C - Status:
+	L: Connected 96% 51Hz
+	R: Connected 51Hz
+	P: Connected 85% 49Hz
+	Baseline: 1,00 x 1.9118477
+06-22  14:09:52 : I - BALANCE_00, -21
+06-22  14:21:01 : C - Status:
+	L: Connected 96% 51Hz
+	R: Connected 51Hz
+	P: Connected 81% 49Hz
+	Baseline: 1,00 x 1.9118477
+06-22  14:27:50 : C - BALANCE Session
+06-22  14:27:50 : I - BALANCE_00, -8
+06-22  14:27:50 : C - BALANCE Session
+06-22  14:27:50 : I - BALANCE_00, -8
+06-22  14:27:51 : I - L: Initializing...
+06-22  14:27:51 : I - L: Connecting...
+06-22  14:27:51 : I - R: Initializing...
+06-22  14:27:51 : I - R: Connecting...
+06-22  14:27:51 : I - P: Connected
+06-22  14:27:53 : I - L: Connected
+06-22  14:27:53 : I - R: Connected
+06-22  14:28:04 : C - R: Disconnected
+06-22  14:28:05 : I - R: Connecting...
+06-22  14:28:05 : I - R: Connected
+06-22  14:28:45 : C - Status:
+	L: Connected 96% 51Hz
+	R: Connected 51Hz
+	P: Connected 80% 49Hz
+	Baseline: 1,00 x 1.9118477
+06-22  14:28:46 : C - Status:
+	L: Connected 96% 51Hz
+	R: Connected 51Hz
+	P: Connected 80% 49Hz
+	Baseline: 1,00 x 1.9118477
+06-22  14:28:47 : C - Status:
+	L: Connected 96% 51Hz
+	R: Connected 51Hz
+	P: Connected 80% 49Hz
+	Baseline: 1,00 x 1.9118477
+06-22  14:28:50 : I - BALANCE_00 END clicked=false
+06-22  14:56:31 : C - Status:
+	L: Connected 96% 51Hz
+	R: Connected 51Hz
+	P: Connected 79% 49Hz
+	Baseline: 1,00 x 1.9118477
+06-22  15:01:41 : C - Status:
+	L: Connected 96% 51Hz
+	R: Connected 51Hz
+	P: Connected 78% 49Hz
+	Baseline: 1,00 x 1.9118477
+06-22  15:10:45 : I - BALANCE_00, -35
+06-22  15:10:51 : I - BALANCE_00 END clicked=true
+06-22  15:40:59 : C - Status:
+	L: Connected 95% 51Hz
+	R: Connected 51Hz
+	P: Connected 76% 49Hz
+	Baseline: 1,00 x 1.9118477
+06-22  15:50:44 : I - BALANCE_00, 1
+06-22  16:09:02 : I - BALANCE_00 END clicked=true
+06-22  16:09:52 : C - Status:
+	L: Connected 95% 51Hz
+	R: Connected 51Hz
+	P: Connected 74% 49Hz
+	Baseline: 1,00 x 1.9118477
+06-22  16:17:30 : I - BALANCE_00, 33
+06-22  16:17:43 : I - BALANCE_00 END clicked=true
+06-22  16:48:06 : I - BALANCE_00, 22
+06-22  17:13:43 : I - BALANCE_00, 13
+06-22  17:13:43 : I - BALANCE_00, 13
+06-22  17:13:44 : I - L: Initializing...
+06-22  17:13:44 : I - L: Connecting...
+06-22  17:13:44 : I - L: Connected
+06-22  17:13:44 : I - R: Initializing...
+06-22  17:13:44 : I - R: Connecting...
+06-22  17:13:44 : I - P: Connected
+06-22  17:13:44 : I - R: Connected
+06-22  17:13:45 : C - R: Battery 0%
+06-22  17:13:45 : C - R: Battery 0%
+06-22  17:25:58 : I - BALANCE_00 END clicked=true
+06-22  17:29:13 : C - Status:
+	L: Connected 95% 51Hz
+	R: Connected 0% 51Hz
+	P: Connected 67% 49Hz
+	Baseline: 1,00 x 1.9118477
+06-22  17:35:48 : I - BALANCE_00, 22
+06-22  17:35:54 : I - BALANCE_00 END clicked=true
+06-22  17:44:48 : C - Status:
+	L: Connected 95% 51Hz
+	R: Connected 0% 51Hz
+	P: Connected 66% 49Hz
+	Baseline: 1,00 x 1.9118477
+06-22  17:58:41 : I - BALANCE_00, 0
+06-22  17:58:47 : I - BALANCE_00 END clicked=true
+06-22  18:26:08 : C - R: Disconnected
+06-22  18:26:09 : I - R: Connecting...
+06-22  18:26:09 : I - R: Connected
+06-22  18:26:21 : I - R: Connected
+06-22  18:26:36 : I - R: Connected
+06-22  18:26:51 : I - R: Connected
+06-22  18:27:06 : I - R: Connected
+06-22  18:27:21 : I - R: Connected
+06-22  18:27:36 : I - R: Connected
+06-22  18:27:51 : I - R: Connected
+06-22  18:28:06 : I - R: Connected
+06-22  18:28:20 : I - R: Connected
+06-22  18:28:36 : I - R: Connected
+06-22  18:28:51 : I - R: Connected
+06-22  18:29:05 : I - R: Connected
+06-22  18:29:21 : I - R: Connected
+06-22  18:29:36 : I - R: Connected
+06-22  18:29:50 : I - R: Connected
+06-22  18:30:06 : I - R: Connected
+06-22  18:30:21 : I - R: Connected
+06-22  18:30:36 : I - R: Connected
+06-22  18:30:51 : I - R: Connected
+06-22  18:31:06 : I - R: Connected
+06-22  18:31:21 : I - R: Connected
+06-22  18:31:35 : I - R: Connected
+06-22  18:31:50 : I - R: Connected
+06-22  18:32:06 : I - R: Connected
+06-22  18:32:21 : I - R: Connected
+06-22  18:32:36 : I - R: Connected
+06-22  18:32:51 : I - R: Connected
+06-22  18:33:05 : I - R: Connected
+06-22  18:33:20 : I - R: Connected
+06-22  18:33:36 : I - R: Connected
+06-22  18:33:50 : I - R: Connected
+06-22  18:34:06 : I - R: Connected
+06-22  18:34:21 : I - R: Connected
+06-22  18:34:36 : I - R: Connected
+06-22  18:34:50 : I - R: Connected
+06-22  18:35:06 : I - R: Connected
+06-22  18:35:21 : I - R: Connected
+06-22  18:35:36 : I - R: Connected
+06-22  18:35:50 : I - R: Connected
+06-22  18:36:06 : I - R: Connected
+06-22  18:36:20 : I - R: Connected
+06-22  18:36:35 : I - R: Connected
+06-22  18:36:51 : I - R: Connected
+06-22  18:37:06 : I - R: Connected
+06-22  18:37:20 : I - R: Connected
+06-22  18:37:36 : I - R: Connected
+06-22  18:37:50 : I - R: Connected
+06-22  18:38:06 : I - R: Connected
+06-22  18:38:20 : I - R: Connected
+06-22  18:38:36 : I - R: Connected
+06-22  18:38:51 : I - R: Connected
+06-22  18:39:05 : I - R: Connected
+06-22  18:39:21 : I - R: Connected
+06-22  18:39:36 : I - R: Connected
+06-22  18:39:50 : I - R: Connected
+06-22  18:40:05 : I - R: Connected
+06-22  18:40:21 : I - R: Connected
+06-22  18:40:36 : I - R: Connected
+06-22  18:40:51 : I - R: Connected
+06-22  18:41:05 : I - R: Connected
+06-22  18:41:21 : I - R: Connected
+06-22  18:41:36 : I - R: Connected
+06-22  18:41:50 : I - R: Connected
+06-22  18:42:05 : I - R: Connected
+06-22  18:42:21 : I - R: Connected
+06-22  18:42:36 : I - R: Connected
+06-22  18:42:50 : I - R: Connected
+06-22  18:43:06 : I - R: Connected
+06-22  18:43:21 : I - R: Connected
+06-22  18:43:35 : I - R: Connected
+06-22  18:43:51 : I - R: Connected
+06-22  18:44:05 : I - R: Connected
+06-22  18:44:20 : I - R: Connected
+06-22  18:44:36 : I - R: Connected
+06-22  18:44:51 : I - R: Connected
+06-22  18:45:06 : I - R: Connected
+06-22  18:45:21 : I - R: Connected
+06-22  18:45:35 : I - R: Connected
+06-22  18:45:50 : I - R: Connected
+06-22  18:46:06 : I - R: Connected
+06-22  18:46:21 : I - R: Connected
+06-22  18:46:36 : I - R: Connected
+06-22  18:46:51 : I - R: Connected
+06-22  18:47:06 : I - R: Connected
+06-22  18:47:20 : I - R: Connected
+06-22  18:47:35 : I - R: Connected
+06-22  18:47:51 : I - R: Connected
+06-22  18:48:06 : I - R: Connected
+06-22  18:48:20 : I - R: Connected
+06-22  18:48:36 : I - R: Connected
+06-22  18:48:51 : I - R: Connected
+06-22  18:49:05 : I - R: Connected
+06-22  18:49:20 : I - R: Connected
+06-22  18:49:36 : I - R: Connected
+06-22  18:49:50 : I - R: Connected
+06-22  18:50:05 : I - R: Connected
+06-22  18:50:21 : I - R: Connected
+06-22  18:50:35 : I - R: Connected
+06-22  18:50:51 : I - R: Connected
+06-22  18:51:06 : I - R: Connected
+06-22  18:51:21 : I - R: Connected
+06-22  18:51:35 : I - R: Connected
+06-22  18:51:51 : I - R: Connected
+06-22  18:52:06 : I - R: Connected
+06-22  18:52:21 : I - R: Connected
+06-22  18:52:36 : I - R: Connected
+06-22  18:52:51 : I - R: Connected
+06-22  18:53:05 : I - R: Connected
+06-22  18:53:20 : I - R: Connected
+06-22  18:53:36 : I - R: Connected
+06-22  18:53:51 : I - R: Connected
+06-22  18:54:06 : I - R: Connected
+06-22  18:54:21 : I - R: Connected
+06-22  18:54:36 : I - R: Connected
+06-22  18:54:50 : I - R: Connected
+06-22  18:55:06 : I - R: Connected
+06-22  18:55:20 : I - R: Connected
+06-22  18:55:35 : I - R: Connected
+06-22  18:55:51 : I - R: Connected
+06-22  18:56:05 : I - R: Connected
+06-22  18:56:21 : I - R: Connected
+06-22  18:56:35 : I - R: Connected
+06-22  18:56:51 : I - R: Connected
+06-22  18:57:06 : I - R: Connected
+06-22  18:57:20 : I - R: Connected
+06-22  18:57:36 : I - R: Connected
+06-22  18:57:50 : I - R: Connected
+06-22  18:58:05 : I - R: Connected
+06-22  18:58:21 : I - R: Connected
+06-22  18:58:35 : I - R: Connected
+06-22  18:58:50 : C - R: Disconnected
+06-22  18:58:51 : I - R: Connecting...
+06-22  18:58:57 : I - R: Connected
+06-22  18:59:49 : C - R: Disconnected
+06-22  18:59:50 : I - R: Connecting...
+06-22  18:59:50 : I - R: Connected
+06-22  19:00:01 : C - STOP_NO_FEEDBACK Session
+06-22  19:00:01 : I - STOP_00
+06-22  19:00:07 : C - R: Disconnected
+06-22  19:00:08 : I - R: Connecting...
+06-22  19:00:08 : I - R: Connected
+06-22  19:00:20 : I - R: Connected
+06-22  19:00:26 : I - STOP_00 END clicked=true
+06-22  19:00:26 : I - STOP_01
+06-22  19:00:29 : I - STOP_01 END clicked=true
+06-22  19:00:29 : I - STOP_02
+06-22  19:00:32 : I - STOP_02 END clicked=true
+06-22  21:52:11 : I - BALANCE_00, null
+06-22  21:52:11 : I - L: Initializing...
+06-22  21:52:11 : I - L: Connecting...
+06-22  21:52:12 : I - R: Initializing...
+06-22  21:52:12 : I - R: Connecting...
+06-22  21:52:12 : I - P: Connected
+06-22  21:52:15 : I - L: Connected
+06-22  21:52:20 : I - BALANCE_00 END clicked=true
+06-22  21:52:21 : I - R: Connected
+06-22  21:52:24 : I - BALANCE_00, 647
+06-22  21:52:32 : I - BALANCE_00 END clicked=true
+06-22  21:52:35 : I - BALANCE_00, 219
+06-22  21:52:44 : I - BALANCE_00 END clicked=true
+06-22  21:59:28 : I - BALANCE_00, -84
+06-22  22:00:51 : I - BALANCE_00, -85
+06-22  22:00:51 : I - L: Initializing...
+06-22  22:00:51 : I - L: Connecting...
+06-22  22:00:52 : I - R: Initializing...
+06-22  22:00:52 : I - R: Connecting...
+06-22  22:00:52 : I - P: Connected
+06-22  22:00:53 : I - L: Connected
+06-22  22:00:56 : I - R: Connected
+06-22  22:01:55 : I - BALANCE_00, -76
+06-22  22:01:55 : I - L: Initializing...
+06-22  22:01:55 : I - L: Connecting...
+06-22  22:01:55 : I - R: Initializing...
+06-22  22:01:55 : I - R: Connecting...
+06-22  22:01:56 : I - P: Connected
+06-22  22:01:58 : I - L: Connected
+06-22  22:01:58 : I - R: Connected
+06-22  22:02:55 : I - BALANCE_00 END clicked=false
+06-22  22:03:06 : C - Status:
+	L: Connected 99% 51Hz
+	R: Connected 95% 51Hz
+	P: Connected 67% 49Hz
+	Baseline: 1,00 x 1.9118477
+06-22  22:03:06 : C - Status:
+	L: Connected 99% 51Hz
+	R: Connected 95% 51Hz
+	P: Connected 67% 49Hz
+	Baseline: 1,00 x 1.9118477
+06-22  22:03:06 : C - Status:
+	L: Connected 99% 51Hz
+	R: Connected 95% 51Hz
+	P: Connected 67% 49Hz
+	Baseline: 1,00 x 1.9118477
+06-22  22:03:15 : C - Status:
+	L: Connected 99% 51Hz
+	R: Connected 95% 51Hz
+	P: Connected 67% 49Hz
+	Baseline: 1,00 x 1.9118477
+06-22  22:03:16 : C - Status:
+	L: Connected 99% 51Hz
+	R: Connected 95% 51Hz
+	P: Connected 67% 49Hz
+	Baseline: 1,00 x 1.9118477
+06-22  22:03:29 : C - Status:
+	L: Connected 99% 51Hz
+	R: Connected 95% 51Hz
+	P: Connected 67% 49Hz
+	Baseline: 1,00 x 1.9118477
+06-22  22:03:29 : C - Status:
+	L: Connected 99% 52Hz
+	R: Connected 95% 51Hz
+	P: Connected 67% 49Hz
+	Baseline: 1,00 x 1.9118477
+06-22  22:03:38 : I - BALANCE_00, -72
+06-22  22:05:09 : I - BALANCE_00 END clicked=false
+06-22  22:12:46 : C - P OK, waiting for L and R...
+06-22  22:12:53 : C - P OK, waiting for L and R...
+06-22  22:17:23 : C - P OK, waiting for L and R...
+06-22  23:42:39 : I - BALANCE_00, null
+06-22  23:42:40 : I - L: Initializing...
+06-22  23:42:40 : I - L: Connecting...
+06-22  23:42:40 : I - R: Initializing...
+06-22  23:42:40 : I - R: Connecting...
+06-22  23:42:40 : I - P: Connected
+06-22  23:42:43 : I - L: Connected
+06-22  23:42:43 : I - R: Connected
+06-23  02:28:33 : I - BALANCE_00, -97
+06-23  02:28:33 : I - BALANCE_00, -97
+06-23  02:28:34 : I - L: Initializing...
+06-23  02:28:34 : I - L: Connecting...
+06-23  02:28:34 : I - L: Connected
+06-23  02:28:34 : I - R: Initializing...
+06-23  02:28:34 : I - R: Connecting...
+06-23  02:28:35 : I - P: Connected
+06-23  02:28:35 : I - R: Connected
+06-23  05:13:49 : I - BALANCE_00, -97
+06-23  05:13:49 : I - BALANCE_00, -97
+06-23  05:13:50 : I - L: Initializing...
+06-23  05:13:50 : I - L: Connecting...
+06-23  05:13:50 : I - L: Connected
+06-23  05:13:50 : I - R: Initializing...
+06-23  05:13:50 : I - R: Connecting...
+06-23  05:13:51 : I - P: Connected
+06-23  05:13:55 : I - R: Connected
+06-23  07:58:55 : I - BALANCE_00, -97
+06-23  07:58:55 : I - BALANCE_00, -97
+06-23  07:58:56 : I - L: Initializing...
+06-23  07:58:56 : I - L: Connecting...
+06-23  07:58:56 : I - L: Connected
+06-23  07:58:56 : I - R: Initializing...
+06-23  07:58:56 : I - R: Connecting...
+06-23  07:58:56 : I - P: Connected
+06-23  07:58:57 : I - R: Connected
+06-23  09:54:35 : C - P OK, waiting for L and R...
+06-23  09:54:35 : C - Status:
+	L: Connected 99% 52Hz
+	R: Connected 92% 51Hz
+	P: Connected 100% 49Hz
+	Baseline: 1,00 x 1.9118477
+06-23  09:56:23 : C - Status:
+	L: Connected 99% 51Hz
+	R: Connected 92% 51Hz
+	P: Connected 100% 49Hz
+	Baseline: 1,00 x 1.9118477
+06-23  09:56:23 : C - P OK, waiting for L and R...
+06-23  10:00:00 : C - START Session
+06-23  10:00:00 : I - START_00
+06-23  10:00:12 : I - L: Initializing...
+06-23  10:00:12 : I - L: Connecting...
+06-23  10:00:12 : I - R: Initializing...
+06-23  10:00:12 : I - R: Connecting...
+06-23  10:00:12 : I - P: Connected
+06-23  10:00:18 : I - L: Connected
+06-23  10:00:19 : I - R: Connected
+06-23  10:18:54 : C - BALANCE Session
+06-23  10:18:54 : I - BALANCE_00, -41
+06-23  10:18:55 : I - BALANCE_00, -41
+06-23  10:18:55 : I - L: Initializing...
+06-23  10:18:55 : I - L: Connecting...
+06-23  10:18:55 : I - R: Initializing...
+06-23  10:18:55 : I - R: Connecting...
+06-23  10:18:56 : I - P: Connected
+06-23  10:19:02 : I - L: Connected
+06-23  10:19:02 : I - R: Connected
+06-23  10:19:09 : I - BALANCE_00 END clicked=true
+06-23  10:19:11 : I - BALANCE_00 END clicked=true
+06-23  10:19:14 : I - BALANCE_00, -39
+06-23  10:19:14 : C - R: Disconnected
+06-23  10:19:15 : I - R: Connecting...
+06-23  10:19:15 : I - R: Connected
+06-23  10:20:14 : I - BALANCE_00 END clicked=false
+06-23  10:20:59 : C - Locking ...
+06-23  10:21:10 : C - Status:
+	L: Connected 99% 52Hz
+	R: Connected 51Hz
+	P: Connected 98% 49Hz
+	Baseline: 1,00 x 1.8650899
+06-23  10:21:10 : C - P OK, waiting for L and R...
+06-23  10:22:58 : C - Status:
+	L: Connected 99% 51Hz
+	R: Connected 51Hz
+	P: Connected 98% 49Hz
+	Baseline: 1,00 x 1.8650899
+06-23  10:22:58 : C - P OK, waiting for L and R...
+06-23  10:24:34 : C - Changing Balance ...
+06-23  10:24:42 : C - P OK, waiting for L and R...
+06-23  10:24:48 : C - Status:
+	L: Connected 99% 52Hz
+	R: Connected 51Hz
+	P: Connected 98% 49Hz
+	Baseline: 1,00 x 1.8650899
+06-23  10:46:02 : C - P OK, waiting for L and R...
+06-23  10:46:02 : C - Status:
+	L: Connected 99% 51Hz
+	R: Connected 51Hz
+	P: Connected 97% 49Hz
+	Baseline: 1,00 x 1.8650899
+06-23  11:00:00 : C - BALANCE Session
+06-23  11:00:00 : C - Improvement: +4%
+06-23  11:00:00 : I - BALANCE_00, 4
+06-23  11:01:00 : I - BALANCE_00 END clicked=false
+06-23  11:04:32 : C - Synchronizing...
