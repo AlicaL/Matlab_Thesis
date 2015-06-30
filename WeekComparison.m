@@ -112,9 +112,11 @@ figure;
 bar(plot_balance,1);
 ylim([0 100])
 title('Subject 1 - Experimental Week');
-ylabel('Activity values');
+ylabel('Percent of Arm usage');
 xlabel('Days');
-legend('paretic left','right')
+legend('paretic left','healthy right')
+set(gca,'XTickLabel',{'Baseline','Int1','Int2','Int3','Post-test'} );
+
 
 TH(1) = text(x(1)-0.25,20,b1) ;
 TH(2) = text(x(2)-0.25,20,b2) ;
@@ -122,12 +124,16 @@ TH(3) = text(x(3)-0.25,20,b3) ;
 TH(4) = text(x(4)-0.25,20,b4) ;
 TH(5) = text(x(5)-0.25,20,b5) ;
 
-TH(1) = text(x(1)+0.05,20,b12) ;
-TH(2) = text(x(2)+0.05,20,b22) ;
-TH(3) = text(x(3)+0.05,20,b32) ;
-TH(4) = text(x(4)+0.05,20,b42) ;
-TH(5) = text(x(5)+0.05,20,b52) ;
+TH(6) = text(x(1)+0.05,20,b12) ;
+TH(7) = text(x(2)+0.05,20,b22) ;
+TH(8) = text(x(3)+0.05,20,b32) ;
+TH(9) = text(x(4)+0.05,20,b42) ;
+TH(10) = text(x(5)+0.05,20,b52) ;
 
+set(TH,'Color','g') ;
+
+hline = refline([0 50]);
+hline.Color = 'r';
 
 % gtext place the text with mouse in the figure
 % gtext(b1,'Fontsize',11)
